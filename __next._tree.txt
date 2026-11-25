@@ -3,4 +3,4 @@
 :HL["/thaivivat-active-refuel/_next/static/media/a2a942dd4d28daae-s.p.2vx-usavuz-_v.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/thaivivat-active-refuel/_next/static/media/fe99e0d97b1bdacf-s.p.2chmmw5jncpj5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"BzPnanvhZuouzPC-d-vmb","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"TuCNS5uZW3JFa4DKA0k6X","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
