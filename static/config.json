@@ -1,1 +1,1 @@
-{"commission": 0.018199579200480914, "watch_share": 0.2, "watch_brands": ["garmin", "huawei"], "partner": "lotuss"}
+{"commission": 0.018457943925233644, "terms": {"reward_rate": 0.1, "reward_cap": 200, "lotus_fee_rate": 0.00911214953271028, "brand_fee_rate": 0.009345794392523364, "platform_rate": 0.018457943925233644, "fee_on_new_sales": 0.065, "vat": 0.07}, "watch_share": 0.2, "watch_brands": ["garmin", "huawei"], "partner": "lotuss"}
